@@ -1,4 +1,5 @@
-**📊 Medical Appointment No-Show Analysis
+📊 Medical Appointment No-Show Analysis
+
 This project analyzes patient no-shows for medical appointments using an interactive and insightful Streamlit dashboard. It helps identify trends and patterns behind missed appointments based on factors such as age, gender, time of day, weekday, and neighborhood. It also generates visualizations and actionable insights to support decision-making for clinics and hospitals.
 
 🚀 Features
