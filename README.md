@@ -18,11 +18,15 @@ This project analyzes patient no-shows for medical appointments using an interac
 
 📦 Installation & Setup
   - Clone this repository:
+
     git clone https://github.com/your-username/no-show-analysis.git
+
     cd no-show-analysis
     
   - Create a virtual environment
+
     python -m venv venv
+
     venv\Scripts\activate   #or venv/bin/activate for IOS
     
   - Install the dependencies:
